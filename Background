@@ -1,0 +1,19 @@
+As a part of my self improvement initiative, I am starting a 100 days of coding challenge. My project and analysis will be focused on understanding the correlation of ad spend on political campaigns and candidates to change in polling positions and trying to understand the drivers of the impact. I will use publicly available data from pollster, RCP, Facebook and Google This project will help me exercise my skills in two key areas; Analyzing the data and synthesizing the results. More updates to come tomorrow. Thank you everyone for the inspiration #100daysofcode #marketingandadvertising #adspend #facebookads #googleads
+Day 2:
+
+It’s important to understand my motivation for doing this project and a high level process for how I would go about it
+Context: I watch a lot of news and often find myself wondering about the connection between advertising and elections. We always hear in the news about the amount of money raised or spent by individual candidates in the run up to the election cycle. But there is no detailed breakdown in my opinion on if this spend is effective or not.
+Key Question: I have three key questions which I am trying to answer in this project
+1. What is the level of ad spend on Facebook and Google at high level for democratic candidates?
+2. What is the potential targeting strategy for some key candidates?
+3. Is there an impact on rating of individual candidates due to ad spend on Facebook and Google?
+Sources: We use the following sources
+1. Facebook ad library- Pulling data from Facebook Graph API for political ads ( the simpler report doesn’t give impressions and target level information)
+2. Google ad library- Pulling data from Google a library ( this report is more comprehensive and gives impressions so it’s more useful)
+3. Realclearpolitics polling data- Polling data for key democratic candidates
+Rationale for test subjects: I wanted to focus my attention on democratic candidates as they have lower awareness, consideration compared to the incumbent. This reduced my list of potential targets which I could look at and I focused on the following candidates for starting my analysis
+1. Harris
+2. Buttigieg
+3. O’Rourke
+4. Booker
+All these candidates are either senators or congressman and none of them have attempted a run for presidency, they are all younger in age and have been more active on social mediahttps://medium.com/@siddhartha.sharan1/connecting-digital-media-spend-to-political-candidates-day-1-71791a5babc0
